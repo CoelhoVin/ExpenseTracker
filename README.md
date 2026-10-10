@@ -89,7 +89,7 @@ For the available routes, HTTP methods, request parameters, and response schemas
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/CoelhoVin/ExpenseTracker.git
 cd ExpenseTracker
 ```
 
