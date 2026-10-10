@@ -1,5 +1,7 @@
 ﻿# Expense Tracker API
 
+[![.NET CI](https://github.com/CoelhoVin/ExpenseTracker/actions/workflows/dotnet.yml/badge.svg)](https://github.com/CoelhoVin/ExpenseTracker/actions/workflows/dotnet.yml)
+
 A RESTful API for personal expense tracking, built with ASP.NET Core and PostgreSQL. This project demonstrates backend development practices, secure authentication, database management, automated testing, and containerization.
 
 ## Features
@@ -15,6 +17,7 @@ A RESTful API for personal expense tracking, built with ASP.NET Core and Postgre
 * **Automated Testing:** Unit tests for application services.
 * **Containerization:** Run the API and PostgreSQL database using Docker Compose.
 * **Centralized Error Handling:** Consistent exception handling through custom middleware.
+
 
 ## Tech Stack
 
