@@ -1,0 +1,19 @@
+gitignore
+# Build output
+**/bin/
+**/obj/
+**/TestResults/
+
+# IDE
+.vs/
+.vscode/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+**/appsettings.Development.json
+
+# User-specific files
+*.user
+*.suo
